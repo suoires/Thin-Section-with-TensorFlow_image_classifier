@@ -1,1 +1,10 @@
-# Thin-Section-with-TensorFlow_image_classifier
+# Classify rock type with TensorFlow Image Classifier
+
+## Dependencies:
+
+* [TensorFlow](https://www.tensorflow.org): 
+
+```
+pip install tensorflow
+
+```
